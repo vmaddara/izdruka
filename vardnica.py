@@ -34,3 +34,20 @@ newDict["k3"]=300
 print(newDict)
 newDict["k1"]="simts"
 print(newDict)
+
+#var piešķirt esošai atslēgai jaunu vērtību
+
+newDict["k1"]="simts"
+print(newDict)
+
+#vārdnīcu metodes
+print(newDict.keys()) #izdrukā visas atslēgas
+print(newDict.values()) #izdrukā atslēgu vērtības
+print(newDict.items()) #izdrukā pārus
+vertibu_list= list(newDict.values()) #nomaiana datu tipu
+print(vertibu_list)  
+
+print(newDict.get("k2"))
+print(newDict.pop("k2"))#izņem konkrēto pārveido
+#update
+#clear

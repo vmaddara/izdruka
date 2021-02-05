@@ -1,4 +1,4 @@
-import vardnica
+import citi_datu_tipi
 
 
 
