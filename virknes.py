@@ -1,4 +1,4 @@
-"""vards = input("Kā tevi sauc? ")
+''''vards = input("Kā tevi sauc? ")
 print("Labdien, " + vards)
 
 vecums = int(input("Cik tev ir gadu? "))     #0000
@@ -16,8 +16,8 @@ platums = float(input("Kāds jums ir istabas platums? "))
 garums = float(input("Kāds jums ir istabas garums? "))
 augstums = float(input("Kāds jums ir istabas augstums? "))
 print=(f"Jūsu istabas tilpums ir {platums * garums * augstums}")
-"""
 
+'''
 #strings (rakstszīmju virknes)
 
 print("sveiki")
