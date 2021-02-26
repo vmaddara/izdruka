@@ -1,4 +1,4 @@
-import cikli
+import for_cikls
 
 
 
